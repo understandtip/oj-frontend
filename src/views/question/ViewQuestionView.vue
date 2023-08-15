@@ -79,7 +79,7 @@ import {
   QuestionVO,
 } from "../../../generated";
 import message from "@arco-design/web-vue/es/message";
-import CodeEditor from "@/components/CodeEditor.vue";
+import CodeEditor from "@components/CodeEditor.vue";
 import MdViewer from "@/components/MdViewer.vue";
 
 interface Props {
